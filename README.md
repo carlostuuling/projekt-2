@@ -18,8 +18,6 @@ Liikmed:
 ## Projekti eesmärk
 Luua kellegi kohta portfoolio. 
 
-## Töö käik
-
 ### Kommunikatsioon
 Suhtluskanalid: **Microsoft Teams**.
 
@@ -35,14 +33,14 @@ Suhtluskanalid: **Microsoft Teams**.
 - info otsimine
 
 **3.päev**
--
+- esitlused
 
 ### Meeskonnatöö
-Meie meeskond koosnes kaheksast liikmest. 
+Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut, 
 
 
 ### Kes mida?
--
+- 
 
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
