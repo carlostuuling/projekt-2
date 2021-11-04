@@ -21,7 +21,7 @@ Luua kellegi kohta portfoolio.
 ## Töö käik
 
 ### Kommunikatsioon
-Suhtluskanalid: **Slack**, **Microsoft Teams**.
+Suhtluskanalid: **Microsoft Teams**.
 
 ### Ülesanded
 **1.päev**
