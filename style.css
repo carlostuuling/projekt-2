@@ -1,4 +1,97 @@
-* {
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+* { 
     padding: 0px;
     margin: 0px;
+    scroll-behavior: smooth;
 }
+.menu {
+  background-color:#2b2a2a;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Dancing Script', cursive;  
+}
+.galerii {
+width: 525px;
+}
+.conteiner {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: white;
+    margin-left: 2rem;
+    max-width: max-content;
+    font-family: 'Dancing Script', cursive;
+    padding-bottom: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+    margin-right: 2rem;
+}
+
+.about {
+    background-color: #2b2a2a ;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px 0px;   
+}
+.aboutPic{
+    height: 300px;
+}
+.wrap{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+p{
+    color: white;
+    max-width: 300px;
+    padding-left: 35px;
+    font-family: 'Rozha One', serif;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+input{
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 500px;
+    
+}
+.message{
+    height: 40px;
+    padding-bottom: 100px;
+}
+button{
+    border-radius: 50px;
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+}
+iframe{
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
