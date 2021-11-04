@@ -32,7 +32,7 @@ Suhtluskanalid: **Microsoft Teams**.
 
 **2.päev**
 - koodi alustamine 
-- 
+- info otsimine
 
 **3.päev**
 -
