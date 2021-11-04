@@ -16,7 +16,10 @@
   font-family: 'Dancing Script', cursive;  
 }
 .galerii {
-width: 525px;
+width: 550px;
+}
+.galerii1{
+    width: 550px;
 }
 .conteiner {
     background-color: white;
@@ -123,10 +126,8 @@ iframe{
     
 }
   a:hover {
-    color: lightblue
-  
-
-
+    color: lightblue;
+  }
 
 
 
