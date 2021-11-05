@@ -48,5 +48,5 @@ Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega 
 
 [figma](https://www.figma.com/file/W3ZunWlwr7xS4jU5JiZPkA/Telefoni%2Farvuti-vaade?node-id=0%3A1)
 
-[Live](navitrolla.netlify.app)
+[Live](https://navitrolla.netlify.app/)
 
