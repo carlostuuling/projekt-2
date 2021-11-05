@@ -42,7 +42,8 @@ Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega 
 
 ### Kes mida tegi?
 
-- Johanna Avik - Tegin figmas portfoolio disaini. Olin üks juhtidest, jälgisin ka koodikirjutajate tööd. 
+- Johanna Avik - Tegin figmas portfoolio disaini. Olin üks juhtidest, jälgisin ka koodikirjutajate tööd.
+- Gregor Tilts -  Otsisin infot Navitrolla kohta.
 
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
