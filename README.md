@@ -29,8 +29,8 @@ Suhtluskanalid: **Microsoft Teams**.
 - disaini loomine 
 
 **2.päev**
-- koodi tegemine
-- info lisamine
+- valisime välja disaini
+- tegime koodi 
 
 **3.päev**
 - esitlused
