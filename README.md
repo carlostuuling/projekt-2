@@ -49,6 +49,7 @@ Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega 
 - Evert Kärp - Kirjutas koodi
 - Markus Rätsep - Juhendas projekti ja aitas teisi.
 - Carlos Tuuling - Täitsin githubi, aitasin koodiga. 
+- Joonas Välja - puudus 
 
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
