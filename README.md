@@ -40,8 +40,9 @@ Suhtluskanalid: **Microsoft Teams**.
 Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega nad õpisid asju mida nad varem ei osanud. kõik said enda ülesannetega hakkama.
 
 
-### Kes mida?
-- 
+### Kes mida tegi?
+
+- Johanna Avik - Tegin figmas portfoolio disaini. Olin üks juhtidest, jälgisin ka koodikirjutajate tööd. 
 
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
