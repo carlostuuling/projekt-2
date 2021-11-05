@@ -44,6 +44,7 @@ Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega 
 
 - Johanna Avik - Tegin figmas portfoolio disaini. Olin üks juhtidest, jälgisin ka koodikirjutajate tööd.
 - Gregor Tilts -  Otsisin infot Navitrolla kohta.
+- Riivo Matt - Kujundamine Figmas, jälgisin koodikirjutajaid, katsetasin koodi kirjutamist.
 
 ### Kasutatud tarkvara:
 **Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
