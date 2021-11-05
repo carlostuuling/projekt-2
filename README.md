@@ -29,14 +29,15 @@ Suhtluskanalid: **Microsoft Teams**.
 - disaini loomine 
 
 **2.päev**
-- koodi alustamine 
-- info otsimine
+- koodi tegemine
+- info lisamine
 
 **3.päev**
 - esitlused
+- viimaste asjade lõpetamine
 
 ### Meeskonnatöö
-Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut, 
+Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega nad õpisid asju mida nad varem ei osanud. kõik said enda ülesannetega hakkama.
 
 
 ### Kes mida?
