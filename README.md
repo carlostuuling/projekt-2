@@ -47,5 +47,6 @@ Meie meeskond koosnes kaheksast liikmest. kõik said teha midagi uut ja sellega 
 **Github** (projekti haldamine), **Figma** (prototüübi loomine), **Visual Studio Code** (programmeerimine)
 
 [figma](https://www.figma.com/file/W3ZunWlwr7xS4jU5JiZPkA/Telefoni%2Farvuti-vaade?node-id=0%3A1)
+
 [Live](navitrolla.netlify.app)
 
